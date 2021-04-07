@@ -1,6 +1,7 @@
 body{
-    background-color: rgb(53, 13, 13);
+    background-image: radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
     color: white;
+    font-family: "Times New Roman", Times, serif;
 }
 .nav-bar{
     background-color: grey;
@@ -8,7 +9,9 @@ body{
 
 .nav-link{
     margin: 20px;
-    color: white
+    color: white;
+    letter-spacing: 5px;
+    font-size: 20px;
 }
 .container{
     padding: 20;
@@ -21,4 +24,5 @@ img{
 .title{
     text-align: center;
     margin-top: 20px;
+    letter-spacing: 2px;
 }
