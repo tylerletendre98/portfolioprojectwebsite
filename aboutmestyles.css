@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+    background: radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+.nav-bar{
+    background-color: grey;
+}
+
+.nav-link{
+    margin: 20px;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.container {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding-top: 40px;
+  }
+  
+.image img{
+    height: 150px;
+    border-radius: 150px;
+  }
+  .text {
+    font-size: 25px;
+    padding-left: 30px;
+  }
+.container-two{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+.text-two{
+    margin-left: 30px;
+    font-size: 25px;
+    text-align:right;
+    padding-right: 20px;
+}
+.image-two img{
+    height: 250px;
+    width: 250px;
+    border-radius: 250px;
+}
