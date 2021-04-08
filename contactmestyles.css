@@ -1,0 +1,20 @@
+body{
+    background: radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    background-size: cover;
+}
+.nav-bar{
+    background-color: grey;
+}
+
+.nav-link{
+    margin: 20px;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.email{
+    height: 30px;
+    width: 150px;
+}
