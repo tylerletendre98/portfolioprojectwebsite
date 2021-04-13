@@ -5,6 +5,11 @@ body{
     background-size: cover;
     /* background-repeat: no-repeat; */
 }
+.box{
+    background: radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
+    height: 100vw;
+    width: 100vw;
+}
 .nav-bar{
     background-color: grey;
 }
@@ -15,17 +20,7 @@ body{
     letter-spacing: 5px;
     font-size: 20px;
 }
-.email{
-    height: 30px;
-    width: 150px;
-}
-.mb-3{
-    margin: 75px;
-    padding-left: 75px;
-    padding-right: 75px;
-    margin-top: 45px;
-}
-
-.email-me{
+.container{
     text-align: center;
+    margin-top: 50px;
 }

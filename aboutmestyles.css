@@ -4,6 +4,12 @@ body{
     color: white;
     font-family: "Times New Roman", Times, serif;
 }
+.box{
+    background: radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
+    height: 100vw;
+    width: 100vw;
+    align-items: center;
+}
 .nav-bar{
     background-color: grey;
 }
