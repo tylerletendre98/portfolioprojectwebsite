@@ -1,8 +1,9 @@
 body{
-    background: radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
+    background:no-repeat, radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
     color: white;
     font-family: "Times New Roman", Times, serif;
     background-size: cover;
+    /* background-repeat: no-repeat; */
 }
 .nav-bar{
     background-color: grey;
@@ -23,4 +24,8 @@ body{
     padding-left: 75px;
     padding-right: 75px;
     margin-top: 45px;
+}
+
+.email-me{
+    text-align: center;
 }
