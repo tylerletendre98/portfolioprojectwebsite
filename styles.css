@@ -16,7 +16,7 @@ body{
 }
 .box{
     background-image: radial-gradient(red, rgb(75, 18, 14), rgb(44, 6, 4));
-    height: 75vw;
+    height: 100vw;
     width: 100vw;
 }
 .container-two{
